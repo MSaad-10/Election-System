@@ -1,7 +1,6 @@
 # Election-System
 This repo is about the project of the Election System in Pakistan 
-<br>
-Group Members:   
+<b> Group Members: <b>
 <br>
 Muhammad Saad 
 <br>
